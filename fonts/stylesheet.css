@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Pyxidium Quick';
+    src: url('Pyxidium_Quick/PyxidiumQuick.woff2') format('woff2'),
+        url('Pyxidium_Quick/PyxidiumQuick.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
