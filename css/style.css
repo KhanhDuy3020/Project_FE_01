@@ -532,6 +532,11 @@ header .main .button:hover i {
     border-radius: 10px;
     border: 2px solid var(--primary-color);
     box-shadow: 0 0 8px var(--primary-color);
+    transition: 0.3s;
+}
+
+.review .review_box .review_card:hover {
+    transform: scale(1.1);
 }
 
 .review .profile {
